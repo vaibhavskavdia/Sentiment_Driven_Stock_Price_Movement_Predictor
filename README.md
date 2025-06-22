@@ -1,0 +1,1 @@
+This project helps you predict the stock trend based on the sentiment analysis done by the ML model
