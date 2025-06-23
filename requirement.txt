@@ -5,4 +5,9 @@ matplotlib
 scikit-learn
 yfinance
 python-dotenv
+requests
+Datetime
+transformers
+ipykernel
+alpha_vantage
 -e .

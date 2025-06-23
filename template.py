@@ -20,10 +20,13 @@ list_of_files=[
     f"src/{project_name}/exception.py",
     f"src/{project_name}/logger.py",
     f"src/{project_name}/utils.py",
+    f"notebooks/eda.ipynb"
+    f"notebooks/feature_engineering.ipynb"
     "app.py",
     "Dockerfile",
     "requirement.txt",
-    "setup.py"
+    "setup.py",
+    
     
 ]
 
