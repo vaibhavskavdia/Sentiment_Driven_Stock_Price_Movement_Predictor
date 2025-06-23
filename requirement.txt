@@ -10,4 +10,7 @@ Datetime
 transformers
 ipykernel
 alpha_vantage
+xgboost
+catboost
+
 -e .
